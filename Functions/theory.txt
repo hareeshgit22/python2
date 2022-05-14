@@ -1,0 +1,10 @@
+Functions.
+To creat a function we use def keyword.
+To creat a function use the function name followed by paranthesis
+
+Types of functions.
+Required Argument-Number of arguments should be match.
+Keyword Argument-number of arguments and keyword should match.
+Default Argument-if user provides data it will consider that else default value will be taken
+Variable argument list-Without changing the function defination a function can take n number of arguments.  
+

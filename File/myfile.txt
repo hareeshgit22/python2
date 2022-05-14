@@ -1,0 +1,23 @@
+%%writefile myfile.txt
+hello this is text file
+this is the second line
+this is the third line
+
+ this is the fourth line. 
+ thsi is the fifth line.
+
+
+r  ---> default mode,error if file doesn't exist.
+a  ---> append ,creates new file if file doesnot exist.
+w  ---> writing ,creates new file.
+x  ---> creats a new file,if already exists.
+t  ---> Text mode
+b  ---> Binary mode(images)
+
+
+
+
+
+
+
+

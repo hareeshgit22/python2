@@ -1,0 +1,17 @@
+Lambda function
+
+A lambada function is anonymous function.
+lambda function dont have any name.
+A lambda function can take any number of arguments but can have only one expression.
+Return keyword should  not be used to return the values.
+it will automatically return functon object.
+we use lambda functions when an anonymous function is required for a short period time.
+
+
+SYNTAX:
+	x=lambda arg:expression
+
+
+
+
+ 

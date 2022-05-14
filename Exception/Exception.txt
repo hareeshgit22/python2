@@ -1,0 +1,14 @@
+Errors detected during execution are called exceptions.
+An exception is a python object that represents an error.
+Example:
+try:
+	x = input("enter the first number:")
+	y = input("enter the second number:"	)
+	ret = x/y
+	print("result = ",ret)
+exceptZeroDivisionError:
+	print("Divide by zero exception happened")
+
+
+
+		
